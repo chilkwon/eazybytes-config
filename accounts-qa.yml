@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "Chil Hoan- Developer"
+    email: "chilhoank@yahoo.ca"
+  onCallSupport:
+    - (647) 571-9437
+    - (905) 765-9437

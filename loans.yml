@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to EazyBank loans related local APIs"
+  contactDetails:
+  name: "Chil Hoan- Developer"
+  email: "chilhoank@yahoo.ca"
+  onCallSupport:
+    - (647) 571-9437
+    - (905) 765-9437
+
