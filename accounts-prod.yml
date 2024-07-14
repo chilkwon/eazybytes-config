@@ -4,7 +4,8 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs"
   contactDetails:
     name: "Chil Hoan- Developer"
-    email: "chilhoank@yahoo.ca"
+    email: "{ciper}e512a0074ab12f9f13f69495c9aa61f0a26ced2841f2d5a7edc7aeb6d1d7f74eb7176f537a2761074440f581094ec07b
+"
   onCallSupport:
     - (647) 571-9437
     - (905) 765-9437
