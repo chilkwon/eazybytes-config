@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to EazyBank accounts related to the production APIs"
+  message: "Welcome to EazyBank accounts related prod APIs"
   contactDetails:
     name: "Chil Hoan- Developer"
     email:  "{cipher}3b127134439c05e1dea4c4047a004b8f29cf792335bc3ff2f958b67b04ed9357d97972a48c05c06e9336825c99302ead"
